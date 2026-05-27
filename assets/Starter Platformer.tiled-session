@@ -1,0 +1,82 @@
+{
+    "activeFile": "platformer-level-1.tmj",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 2.0363,
+            "scaleInEditor": 1
+        },
+        "/Users/charlotte/Desktop/CMPM_120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "scale": 0.6168402777777777,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 449.87334646777373,
+                "y": 303.1578947368422
+            }
+        },
+        "/Users/charlotte/Desktop/CMPM_120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "platformer-level-1.tmj": {
+            "scale": 0.8797,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 2010.9128111856314,
+                "y": 289.8715471183358
+            }
+        },
+        "platformer-level-1.tmj#kenny_tilemap_packed": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmj#kenny_tilemap_packed2": {
+            "scaleInDock": 1.0035,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmj#kenny_tilemap_packed3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmj#tilemap_packed2": {
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmj#tilemap_packed2.png": {
+            "scaleInEditor": 1
+        },
+        "platformer-level-1.tmx": {
+            "scale": 0.22095771144278606,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 902.8877005347592,
+                "y": 1052.2375457359979
+            }
+        }
+    },
+    "frame.defaultDuration": 500,
+    "last.exportedFilePath": "/Users/charlotte/Desktop/CMPM_120/PlatformImprovement/assets",
+    "last.imagePath": "/Users/charlotte/Desktop/CMPM_120/Game3/assets",
+    "map.height": 34,
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "json",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 134,
+    "openFiles": [
+        "platformer-level-1.tmj"
+    ],
+    "project": "Starter Platformer.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "platformer-level-1.tmj",
+        "/Users/charlotte/Desktop/CMPM_120/PlatformImprovement/assets/platformer-level-1.tmx",
+        "platformer-level-1.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 18,
+        "width": 18
+    }
+}

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sweet Escape</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #222;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+        canvas {
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+        }
+    </style>
+</head>
+<body>
+    <!-- Phaser 3 library (loaded first) -->
+    <script src="lib/phaser.js"></script>
+
+    <!-- Game source files (loaded in dependency order) -->
+    <script src="src/TextBox.js"></script>
+    <script src="src/Scenes/Load.js"></script>
+    <script src="src/Scenes/Platformer.js"></script>
+    <script src="src/main.js"></script>
+</body>
+</html>
